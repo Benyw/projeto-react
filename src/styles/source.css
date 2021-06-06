@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.card {
+    margin: 5%;
+    padding: 2%;
+    border: solid #000 1px;
+    border-radius: 5px;
+}
